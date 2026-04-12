@@ -35,7 +35,7 @@
 ## 📂 Projetos em destaque
 
 ### 🚀 Task Manager React
-Aplicação de gerenciamento de tarefas com React.
+Aplicação de gerenciamento de tarefas com React, incluindo edição, filtros e persistência.
 
 👉 [Task Manager em React](https://task-manager-react-tan.vercel.app)
 
