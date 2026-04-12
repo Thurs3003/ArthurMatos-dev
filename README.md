@@ -34,9 +34,12 @@
 
 ## 📂 Projetos em destaque
 
-🚧 Em desenvolvimento:
+### 🚀 Task Manager React
+Aplicação de gerenciamento de tarefas com React.
 
-- 🔹 Task Manager React (em breve)
+👉 [Task Manager em React](https://task-manager-react-tan.vercel.app)
+
+👉 https://github.com/Thurs3003/task-manager-react
 - 🔹 API REST com Spring Boot (em breve)
 
 ---
