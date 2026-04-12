@@ -50,3 +50,7 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Thurs3003&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Thurs3003&layout=compact&theme=tokyonight" />
+</p>
