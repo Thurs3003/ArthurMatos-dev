@@ -42,3 +42,15 @@
 💼 LinkedIn: https://www.linkedin.com/in/arthur-matos-108713295/
 
 ---
+
+## 🛠 Tecnologias
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thurs3003&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thurs3003&layout=compact&theme=dark" />
+</p>
