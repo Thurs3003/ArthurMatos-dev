@@ -40,7 +40,16 @@ Aplicação de gerenciamento de tarefas com React, incluindo edição, filtros e
 👉 [Task Manager em React](https://task-manager-react-tan.vercel.app)
 
 👉 https://github.com/Thurs3003/task-manager-react
-- 🔹 API REST com Spring Boot (em breve)
+
+### 🚀 User API (Java + Spring Boot)
+
+API REST para gerenciamento de usuários com CRUD completo, validação de dados, documentação com Swagger e persistência em MySQL.  
+
+🔗 Deploy: https://user-api-springboot-production.up.railway.app  
+
+📘 Swagger: https://user-api-springboot-production.up.railway.app/swagger-ui/index.html
+
+🔗 GitHub: https://github.com/Thurs3003/user-api-springboot
 
 ---
 
