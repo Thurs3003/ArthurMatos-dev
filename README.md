@@ -1,77 +1,144 @@
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Arthur+Matos;Desenvolvedor+Back-end+Java;Focado+em+Spring+Boot+e+APIs;Buscando+minha+primeira+oportunidade" />
+<div align="center">
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:7B2FF7,100:00E5FF&height=200&section=header&text=Arthur%20Matos&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Frontend%20%7C%20React%20%7C%20Supabase&descAlignY=58&descSize=18" />
 
-💻 Focado em desenvolvimento Back-end com Java e Spring Boot
+<br>
 
-🚀 Buscando oportunidade como Desenvolvedor Junior
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=B967FF&center=true&vCenter=true&width=600&lines=const+dev+%3D+%7B+stack%3A+%5B%22React%22%2C+%22Supabase%22%5D+%7D;procurando+minha+primeira+oportunidade...;sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 
+</div>
 
----
+<br>
 
-## 🛠 Tecnologias
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
-💡 Back-end:
+### 👨‍💻 Sobre mim
 
-* Java
-* Spring Boot
-* SQL (MySQL/PostgreSQL)
+```javascript
+const arthur = {
+  localizacao: "São Paulo, BR",
+  formacao: "ADS @ Universidade São Judas Tadeu",
+  cargo: "Auxiliar de E-Commerce @ G.A Brasil",
+  freelancer: true,
+  buscando: "Vaga Júnior / Estágio Frontend",
+  hobbies: ["gaming", "código"]
+}
+```
 
-🎨 Front-end:
+</td>
+<td valign="top" width="50%">
 
-* React
-* JavaScript
-* HTML
-* CSS
+### ⚡ Atividade
 
-🔧 Ferramentas:
+- 🛍️ Construindo e-commerces com **React + Supabase**
+- 🎮 Criei um jogo multiplayer em tempo real — **SílabaBomb**
+- 🌱 Aprendendo **TypeScript** a fundo
+- 🤝 Aberto a oportunidades de Frontend Júnior
 
-* Git & GitHub
-* Postman
-* VS Code / IntelliJ
+</td>
+</tr>
+</table>
 
----
+<br>
 
-## 📂 Projetos em destaque
+<div align="center">
 
-### 🚀 Task Manager React
-Aplicação de gerenciamento de tarefas com React, incluindo edição, filtros e persistência.
+### 🛠️ Stack
 
-👉 [Task Manager em React](https://task-manager-react-tan.vercel.app)
+<img src="https://skillicons.dev/icons?i=react,js,ts,nextjs,vite,supabase,postgres,java,spring,git,vscode,vercel&theme=dark" />
 
-👉 https://github.com/Thurs3003/task-manager-react
+</div>
 
-### 🚀 User API (Java + Spring Boot)
+<br>
 
-API REST para gerenciamento de usuários com CRUD completo, validação de dados, documentação com Swagger e persistência em MySQL.  
+<div align="center">
 
-🔗 Deploy: https://user-api-springboot-production.up.railway.app  
+### 📌 Projetos em destaque
 
-📘 Swagger: https://user-api-springboot-production.up.railway.app/swagger-ui/index.html
+</div>
 
-🔗 GitHub: https://github.com/Thurs3003/user-api-springboot
+<table align="center" width="100%">
+<tr>
+<td width="33%" valign="top">
 
----
+<div align="center">
 
-## 📫 Contato
+**💣 SílabaBomb**
 
-📧 Email: [arthur.assismatos@gmail.com](mailto:arthur.assismatos@gmail.com)
+Jogo multiplayer em tempo real — forme palavras antes da bomba explodir
 
-💼 LinkedIn: https://www.linkedin.com/in/arthur-matos-108713295/
+`Next.js` `TypeScript` `Supabase Realtime`
 
----
+[🔗 Jogar agora](https://silaba-bomb.vercel.app) · [📂 Código](https://github.com/Thurs3003/silaba-bomb)
 
-## 🛠 Tecnologias
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
-</p>
----
+</td>
+<td width="33%" valign="top">
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Thurs3003&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Thurs3003&layout=compact&theme=radical" />
-</p>
+<div align="center">
+
+**🛍️ G.A Brasil Store**
+
+E-commerce completo — catálogo, carrinho, autenticação e painel admin
+
+`React` `Supabase` `PostgreSQL`
+
+[🔗 Ver site](https://ga-brasil-store.vercel.app) · [📂 Código](https://github.com/Thurs3003/ga-brasil-store)
+
+</div>
+
+</td>
+<td width="33%" valign="top">
+
+<div align="center">
+
+**🏥 ClickSUS**
+
+Redesign de interface do SUS com foco em acessibilidade e UX
+
+`React` `Vite`
+
+[🔗 Ver site](https://clicksus-web.vercel.app) · [📂 Código](https://github.com/Thurs3003/clicksus-web)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Thurs3003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=00E5FF&icon_color=B967FF&text_color=E8EDF2" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thurs3003&theme=tokyonight&hide_border=true&background=0D0221&ring=B967FF&fire=00E5FF&currStreakLabel=00E5FF" height="165" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thurs3003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=00E5FF&text_color=E8EDF2" height="165" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 📫 Vamos conversar?
+
+<a href="https://linkedin.com/in/arthur-matos-108713295" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:arthur.assismatos@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7B2FF7,100:0D0221&height=100&section=footer" />
+
+</div>
