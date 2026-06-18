@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:7B2FF7,100:00E5FF&height=200&section=header&text=Arthur%20Matos&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Frontend%20%7C%20React%20%7C%20Supabase&descAlignY=58&descSize=18" />
+<img src="https://raw.githubusercontent.com/Thurs3003/ArthurMatos-dev/refs/heads/main/banner_github_clair_obscur.svg" width="100%" />
 
 <br>
 
